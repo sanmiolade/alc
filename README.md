@@ -13,6 +13,9 @@ After an extensive study of the process I designed an electromechanical solution
 ## ALC installed at a house 
 ![image](alc_installed.jpg)
 
+## ALC retired after 15 years of service. 
+![image](alc3.jpg)
+
 # AP: Power Aleter
 Configuarble Electric Supply activity Alerter.
 ![image](PowerAlerter.jpg)
