@@ -25,7 +25,8 @@ There was a need for a **audio based device** that could be configured to **run 
 The **Power Alerter** provided such functionality, it even allowed you in conjunction with the **ALC** (Automatic Lince Changer) to **automatically** change over your home to the Electric grid and also switch off the generator at the same time. I also hold a Nigerian patent for the design.
 
 # Nigerian Patent Documents
-Both devices shown and described above.
+Both devices shown and described above have **Patents issued in Nigeria**.
+*(click Links to PDF documents)*
 
 [Automatic Line Changer (ALC) Patent](ALC_Patent.pdf)
 
