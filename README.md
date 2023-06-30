@@ -26,4 +26,4 @@ The **Power Alerter** provided such functionality, it even allowed you in conjun
 
 # Nigerian Patent Documents 
 Both devices shown and described above .
-![image](PowerAlerter.jpg)
+<object data="ALC_Patent.pdf" type="application/pdf" width="100%"></object>
