@@ -26,6 +26,7 @@ The **Power Alerter** provided such functionality, it even allowed you in conjun
 
 # Nigerian Patent Documents
 Both devices shown and described above have **Patents issued in Nigeria**.
+
 *(click Links to PDF documents)*
 
 [Automatic Line Changer (ALC) Patent](ALC_Patent.pdf)
