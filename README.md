@@ -26,5 +26,5 @@ The **Power Alerter** provided such functionality, it even allowed you in conjun
 
 # Nigerian Patent Documents 
 Both devices shown and described above.
-<object data="ALC_Patent.pdf" width="1000" height="1000" type='application/pdf'></object>
+<object data="../blob/main/ALC_Patent.pdf" width="1000" height="1000" type='application/pdf'></object>
 
