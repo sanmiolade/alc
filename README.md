@@ -13,7 +13,7 @@ After an extensive study of the process I designed an electromechanical solution
 ## ALC installed at a house 
 ![image](alc_installed.jpg)
 
-## This ALC unit retired after 15 years of service. 
+## This ALC unit (shown below) was retired after 15 years of service. 
 ![image](alc3.jpg)
 ------------
 # AP: Power Alerter
