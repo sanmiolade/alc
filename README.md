@@ -24,7 +24,7 @@ The supply of electricity in Nigeria is very sporadic, most homes get only 5 hou
 There was a need for a **audio based device** that could be configured to **run a siren or bell for a period of a few seconds**, allowing the members of the home to identify when the Electric company has supplied electric to the house so the generators could be switched off and the home can be **changed-over** to the electrical grid. 
 The **Power Alerter** provided such functionality, it even allowed you in conjunction with the **ALC** (Automatic Lince Changer) to **automatically** change over your home to the Electric grid and also switch off the generator at the same time. I also hold a Nigerian patent for the design.
 
-# Nigerian Patent Documents
+# Patents
 Both devices shown and described above have **Patents issued in Nigeria**.
 
 *(click Links to PDF versions of the Patent documents)*
